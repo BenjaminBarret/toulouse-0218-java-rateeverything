@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "294229839097",
+    "firebase_url": "https://rateeverything-aad33.firebaseio.com",
+    "project_id": "rateeverything-aad33",
+    "storage_bucket": "rateeverything-aad33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294229839097:android:050a3fb7dc61b8a3",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.rateeverything"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294229839097-c9e98daph6nv9n80mok4lefmd2nrku6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.rateeverything",
+            "certificate_hash": "9b13e1a9283a343524df1e8e374efaac24cabdeb"
+          }
+        },
+        {
+          "client_id": "294229839097-1edrn4qospi167thola0lromnlbaeaid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.rateeverything",
+            "certificate_hash": "ea90d1db1faca38e710d2887464c7e56ae1c0aa9"
+          }
+        },
+        {
+          "client_id": "294229839097-vkmoljm1ta516sbsfg24vf0bq26g6csc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.rateeverything",
+            "certificate_hash": "e4157a8c9286d11b56683b827ebfdae7e57d0da6"
+          }
+        },
+        {
+          "client_id": "294229839097-l4jhhm53jjrbsfndgcrol5b0f2qdfmfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Mj2oTfl0DRrjGy9qKQ9VXEg8_YOpuZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294229839097-l4jhhm53jjrbsfndgcrol5b0f2qdfmfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

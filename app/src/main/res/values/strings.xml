@@ -1,3 +1,97 @@
 <resources>
     <string name="app_name">toulouse-0218-java-rateeverything</string>
+
+
+    <string name="mail">Mail</string>
+    <string name="create">Suivant</string>
+    <string name="modifier_l_avatar">Modifier l\'avatar</string>
+    <string name="return1">Return</string>
+    <string name="password">Mot de passe</string>
+    <string name="create_an_account">Creér un compte</string>
+    <string name="sign_in">Connexion</string>
+    <string name="login">Suivant</string>
+    <string name="page_login">page Login</string>
+
+    <string name="followers">Utilisateurs</string>
+    <string name="textview">TextView</string>
+    <string name="nb_followers">nb Followers</string>
+
+    <string name="modifier_votre_note">Modifier votre note !</string>
+    <string name="_3_6">3.6</string>
+    <string name="user_name">User name</string>
+    <string name="commentaires">Commentaires</string>
+    <string name="_24">24</string>
+    <string name="_34">34</string>
+    <string name="modifier_profil">Modifier Profil</string>
+    <string name="profil_user">Profil User</string>
+    <string name="Date">Date</string>
+    <string name="User">User</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="info_user">info user</string>
+    <string name="home">Accueil</string>
+    <string name="profil">Profil</string>
+    <string name="setting">Setting</string>
+    <string name="disconnect">Se déconnecter</string>
+    <string name="username">Username</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="ben">Ben</string>
+    <string name="ben_lebeaugossedu974_gmali_com">Ben@lebeaugossedu974@gmali.com</string>
+    <string name="biblioth_que">Bibliothèque</string>
+    <string name="tv_description">tv_description</string>
+    <string name="partager">Partager</string>
+    <string name="app_photo">App Photo</string>
+    <string name="description_photo">Description photo</string>
+    <string name="fillFields">Renseignez tous les champs</string>
+    <string name="bothValues">Renseignez toutes les informations</string>
+    <string name="incorrectUserPassword">Identifiant ou mot de passe incorrect</string>
+    <string name="passwordNeed">Votre mot de passe doit contenir 6 caractères minimum</string>
+    <string name="authentificatinFailed">Echec d\'authentification</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="pseudo_text">Pseudo</string>
+    <string name="Ok">Ok</string>
+    <string name="fail">Erreur</string>
+    <string name="titre">titre</string>
+    <string name="suivre_cette_personne">Suivre cette personne</string>
+    <string name="ne_plus_suivre">Ne plus suivre</string>
+    <string name="user_mail">user mail</string>
+    <string name="nb_photos">Nb Photos</string>
+    <string name="nouvelle_note">Nouvelle note</string>
+    <string name="supprimer_photo">Supprimer la photo</string>
+    <string name="es_tu_sur">Etes vous sûr de vouloir supprimer cette photo ?</string>
+    <string name="oui">Oui</string>
+    <string name="photo_supprimée">Photo supprimée</string>
+    <string name="non">Non</string>
+    <string name="_0">0</string>
+    <string name="publications">publications</string>
+    <string name="followersprofil">Abonnés</string>
+    <string name="publicationsprofil">Publications</string>
+    <string name="follow">Publications</string>
+    <string name="followersf">Abonnés</string>
+    <string name="modifier_photo_de_profil">Modifier photo de profil</string>
+    <string name="ajoutez_votre_note">Ajoutez votre note</string>
+    <string name="mettre_votre_note">Laissez votre note :</string>
+    <string name="modifiez_votre_note">Modifiez votre note</string>
+    <string name="votre_note_est_modif">Votre note a été modifiée</string>
+    <string name="votre_note_est_prise_en_compte">Votre note a été prise en compte</string>
+    <string name="RateEverything">Rate Everything</string>
+    <string name="titlephoto">titre</string>
+    <string name="titleaddphoto">title</string>
+    <string name="choose">Inscription / Connexion</string>
+    <string name="description">Description</string>
+    <string name="title">Titre</string>
+    <string name="photo_de_ton_objet">Photo de ton objet</string>
+    <string name="choisissez">Choisissez une option</string>
+    <string name="telechargement">Téléchargement</string>
+    <string name="annuler">Annuler</string>
+    <string name="annulerlogin">Annuler</string>
+    <string name="name">NAME</string>
+    <string name="photo_ajoutée">La photo a été ajoutée.</string>
+    <string name="modifiez_vos_textes">Modifiez vos textes</string>
+    <string name="valider">Valider</string>
 </resources>
